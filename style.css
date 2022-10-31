@@ -1,19 +1,55 @@
-
-
-
 body {
     font-family: 'Nunito', sans-serif;
 }
-
 #input1{
     width: 500px;
     height: 65px;
     border-radius: 17.5px;
 }
-
 .textPF1 {
     text-align: left; 
     margin-left: 15%; 
     font-family: 'Nunito', sans-serif;
     color: #234CAD;
+}
+.dot {
+    background: #F2F6FF;
+    border-radius: 50%;
+    padding: 10px 15px;
+    height: 25px;
+    width: 25px;
+    display: inline;
+}
+.list-group-item {
+    border: none !important;
+}
+a {
+    text-decoration: inherit;
+    color: #234CAD;
+}
+.btn {
+    margin: 0px 20px;
+    padding: 11px 29px;
+}
+.btn-outline-primary {
+    border-radius: 25px;
+    border: 2px solid #234CAD;
+    color: #234CAD;
+}
+.btn-light {
+    border-radius: 25px;
+    color: #234CAD;
+    background: #F2F6FF;
+}
+#product1 {
+    background: #F2F6FF;
+    border-radius: 60px;
+}
+#jumbotronsbtn {
+    margin: 0 !important;
+}
+#iconbg {
+    background: #FFFFFF;
+    border-radius: 15px;
+    padding: 14px 10px;
 }
