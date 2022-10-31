@@ -1,3 +1,14 @@
+
+
+
 body {
-    font-family: 'Noyh', sans-serif;
+    font-family: 'Nunito', sans-serif;
+}
+
+#input1{
+    width: 500px;
+    height: 65px;
+    border-radius: 17.5px;
+ 
+   
 }
