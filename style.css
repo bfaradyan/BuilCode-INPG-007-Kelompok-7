@@ -53,3 +53,19 @@ a {
     border-radius: 15px;
     padding: 14px 10px;
 }
+.textBoxUse {
+    margin-top: 8%;
+    margin-left: 10%;
+    height: 25%;
+    width: 60%;
+}
+.textBoxWeOffer {
+    margin-left: 11%;
+    height: 10%;
+    width: 55%;
+}
+.boxButGet {
+    margin-left: 4%;
+    height: 10%;
+    width: 55%;
+}
