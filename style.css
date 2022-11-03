@@ -98,3 +98,14 @@ a {
     height: 10%;
     width: 55%;
 }
+#button1{
+    
+position: absolute;
+left: 89%;
+right: 2%;
+top: 15.38%;
+bottom: 15.38%;
+border-radius: 12.5px;
+border: 0px;
+
+}
