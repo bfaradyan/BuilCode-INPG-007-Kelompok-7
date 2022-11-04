@@ -109,3 +109,63 @@ border-radius: 12.5px;
 border: 0px;
 
 }
+.textBox1 {
+    background-color: #FFFFFF;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 100px;
+}
+.fontkotak1 {
+    background-color: #F2F6FF;
+    margin: 3%;
+    height: 80px;
+    width: 80px;
+}
+.fontAndrew {
+    font-family: 'Nunito', sans-serif;
+    color: #234CAD;
+    font-size: 30px;
+    text-align: left;
+}
+.textBawah {
+    font-size: 15px;
+    color: #234CAD;
+    text-align: left;
+}
+.fontTime {
+    font-size: 15px;
+    color: #234CAD;
+    text-align: right;
+}
+.textAJ {
+    font-size: 30px;
+    text-align: center;
+    color: #234CAD;
+}
+.textBox2 {
+    height: 100px;
+}
+.backgrnd {
+    background-color: #F2F6FF;
+}
+.textBoxUse {
+    width: 70%;
+}
+.textBoxWeOffer {
+    width: 70%;
+}
+.jarakBut {
+    margin-left: 11%;
+    margin-top: 3%;
+}
+.jarakAtasBox {
+    margin-top: 7%;
+}
+.sizefontUse {
+    font-size: 50px;
+}
+.sizefontWe {
+    font-size: 18px;
+    margin-top: 5%;
+}
