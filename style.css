@@ -169,3 +169,16 @@ border: 0px;
     font-size: 18px;
     margin-top: 5%;
 }
+.feature2 {
+    background: #F2F6FF;
+    border-radius: 60px;
+    
+}
+
+.backFile {
+    background-color: #FFFFFF;
+    height: 99%;
+    width: 5%;
+    margin-left: 45%;
+    margin-top: 3%;
+}
