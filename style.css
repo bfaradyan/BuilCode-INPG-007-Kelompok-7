@@ -327,3 +327,45 @@ border: #02143b;
     font-size: 9px;
     height: 13px;
 }
+.textBoxIncrease {
+    margin-top: 13%;
+    margin-left: 10%;
+    height: 25%;
+    width: 90%;
+}
+.textBoxOur {
+    margin-left: 16%;
+    height: 10%;
+    width: 55%;
+}
+.boxButGet2 {
+    margin-left: 9%;
+    height: 10%;
+    width: 55%;
+}
+.textBoxAbout2 {
+    margin-top: 7%;
+}
+.boxStand {
+    background-color: #FFFFFF;
+    width: 60%;
+}
+.textRataKiri{
+    text-align: left;
+}
+.ukurImg {
+    height: 20px;
+    text-align: center;
+}
+.boxCal {
+    height: 30%;
+    width: 90%;
+}
+.textAtas {
+    font-family: 'Nunito', sans-serif;
+    color: #234CAD;
+    font-size: 20px;
+}
+.textTime {
+    color: #234CAD;
+}
