@@ -369,3 +369,67 @@ border: #02143b;
 .textTime {
     color: #234CAD;
 }
+.pricing {
+    margin-top: 150px;
+  }
+  
+  .pricing .title-price h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #234CAD;
+  }
+  
+  .pricing .desc-price {
+    width: 35%;
+    font-size: 16px;
+    font-weight: 400;
+    color: #234CAD;
+  }
+  
+  .pricing .card-price-side {
+    border-radius: 4rem;
+    background-color: #F2F6FF;
+  }
+  
+  .pricing .card-price-mid {
+    border-radius: 4rem;
+    border: 3px #234CAD solid;
+  }
+  
+  .pricing h5 {
+    font-size: 25px;
+    font-weight: 400;
+    color: #234CAD;
+  }
+  
+  .pricing h1 {
+    font-size: 56px;
+    font-weight: 700;
+    color: #234CAD;
+  }
+  
+  .pricing .card-price-side button {
+    background-color: white;
+    width: 165px;
+    height: 55px;
+    color: #234CAD;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  
+  .pricing .card-price-mid button {
+    background-color: white;
+    border: 2px #234CAD solid;
+    width: 165px;
+    height: 55px;
+    color: #234CAD;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  
+  .pricing button:hover {
+    background: #234CAD !important;
+    border-radius: 4rem;
+    color: #ffffff;
+  } 
+  
