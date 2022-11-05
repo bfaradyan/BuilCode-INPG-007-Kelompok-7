@@ -274,10 +274,10 @@ border: #02143b;
 
 #form {
     width: 300px;
-    margin: 20vh auto 0 auto;
+    margin: 2vh auto 0 auto;
     padding: 20px;
-    background-color: whitesmoke;
-    border-radius: 4px;
+    background: #F2F6FF;
+    border-radius: 5px;
     font-size: 12px;
 }
 
